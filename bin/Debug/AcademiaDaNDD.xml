@@ -1,0 +1,186 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AcademiaDaNDD
+</name>
+</assembly>
+<members>
+<member name="T:AcademiaDaNDD.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources._call">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.a4add38de674b5fd">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.aio">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.aio1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.bin">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.binInativo">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.blue_background_1600x1066_compressor">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.btnDeletarUser">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.btnDeletarUserInativo">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.btnEditar">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.btnEditarInativo">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.btnNovo">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.btnNovoInativo">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.btnSalvar">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.btnSalvarInativo">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.caderno">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.cadernoInativo">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.chamado">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.disket">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.DisketInativo">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.Final">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.fundo2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.iconfinder_Door_enter_entrance_exit_leave_logout_out_quit_4831032">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.iconfinder_Drill_669943">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.iconfinder_logout_3017933">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.Inativo">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.logo50">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.logo502">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.loguinha">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.mWgiI0">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.pic">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AcademiaDaNDD.My.Resources.Resources.testeaaa">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

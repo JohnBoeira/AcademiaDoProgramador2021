@@ -1,0 +1,6 @@
+bin/release
+/obj
+*.user
+*.suo
+*.sln.cache
+*.vs
